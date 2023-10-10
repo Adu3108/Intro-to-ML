@@ -7,11 +7,11 @@ In this week we will primarily focus on learning the libraries that we will be u
    This library is used for working majorly with arrays and matrices or working in the domain of linear algebra. 
    
 2. [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
-3. 
+
    This library is a powerful tool for data manipulation and analysis
    
-4. [Scipy](https://docs.scipy.org/doc/)
-5. 
+3. [Scipy](https://docs.scipy.org/doc/)
+   
    As the name suggests, this library is used for scientific and technical computing
 
 ## Resources
