@@ -14,6 +14,10 @@ In this week we will primarily focus on learning the libraries that we will be u
    
    As the name suggests, this library is used for scientific and technical computing
 
+## Assignment
+
+The assignment contains some basic problems pertaining to these libraries.
+
 ## Resources
 
 [Numpy](https://www.youtube.com/watch?v=GB9ByFAIAH4&ab_channel=KeithGalli)
