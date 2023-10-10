@@ -1,5 +1,5 @@
 # Week-4
-In this week, we cover the topic of neural networks. Examples of how to use the neural networks is provided in the jupyter notebook.
+In this week, we cover the topic of neural networks. We briefly touch upon on loss functions and activation functions. We also introduce the concept of gradient descent and how it is utilised in the training of neural networks.
 
 ## Resources
 
