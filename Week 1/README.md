@@ -1,8 +1,8 @@
 # Week-1
-In this week we will primarily focus on learning the libraries that we are gonna use in our coding a lot.
+In this week we will primarily focus on learning the libraries that we will be using in our programs a lot.
 
 The libraries are :
-1. [Numpy](https://numpy.org/doc/stable/) : used for working majorly with arrays, working in domain of linear algebra, matrices
+1. [Numpy](https://numpy.org/doc/stable/) : used for working majorly with arrays and matrices or working in the domain of linear algebra
 2. [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) : powerful tool for data manipulation and analysis
 3. [Scipy](https://docs.scipy.org/doc/) : as the name suggests it's used for scientific and technical computing
 
