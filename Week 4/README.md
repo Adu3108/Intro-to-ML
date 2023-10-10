@@ -1,13 +1,10 @@
 # Week-4
-In this week we will be learning what is neural networks?
+In this week, we cover the topic of neural networks. Examples of how to use the neural networks is provided in the jupyter notebook.
 
-[This video](https://www.youtube.com/watch?v=EVeqrPGfuCY&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=46) is quite informative about what exactly is neural networks.
+## Resources
 
-[This](https://www.ibm.com/in-en/cloud/learn/neural-networks) is a very brief but efficient reading resource for what exactly is neural networks.
-Examples of how to use the neural networks is provided in the jupyter notebook.
+[IBM Guide on Neural Networks](https://www.ibm.com/in-en/cloud/learn/neural-networks) 
 
-Personally I found these 2 videos very descriptive and informative:
+[Visual Guide on Neural Networks](https://youtu.be/aircAruvnKk)
 
-*[What is Neural Network?](https://youtu.be/aircAruvnKk)
-
-*[How does Neural Networks learn?](https://youtu.be/IHZwWFHWa-w)
+[Gradient Descent](https://youtu.be/IHZwWFHWa-w)
